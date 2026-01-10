@@ -38,6 +38,6 @@ GROUP BY customer_type;
 SELECT
     product_line,
     SUM(quantity) AS total_quantity_sold
-FROM supermarket_sales
+FROM supermarket_sales_2
 GROUP BY product_line
 ORDER BY total_quantity_sold DESC;
