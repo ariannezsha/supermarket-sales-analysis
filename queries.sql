@@ -11,7 +11,7 @@ SELECT
     SUM(totalsales) AS total_sales
 FROM supermarket_sales_2
 GROUP BY month
-ORDER BY total_sales DESC;
+ORDER BY month;
 
 -- 2. Revenue by branch
 -- Purpose: Find which branch generates the highest revenue
