@@ -43,6 +43,13 @@ The dashboard provides an interactive overview of:
 
 ---
 
+## 🔎 Analysis Process
+1. Explored the dataset and identified relevant columns for analysis.
+2. Cleaned and transformed data using SQL (casting data types, aggregations).
+3. Answered business questions using SQL queries.
+4. Built an interactive dashboard in Power BI to visualize insights.
+
+---
 ## 🚀 Future Improvements
 - Add profitability analysis
 - Analyze average transaction value
