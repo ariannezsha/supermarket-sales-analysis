@@ -1,5 +1,5 @@
 -- Supermarket Sales Analysis
--- Author: ariannezha
+-- Author: ariannezsha
 -- Purpose: Answer business questions related to sales performance and customer behavior
 -- Tools: SQLite
 
